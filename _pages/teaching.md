@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# [Fall 2024: Digital Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA24/)
 
-Organize your courses by years, topics, or universities, however you like!
+## Course Description
+In this course students learn to conceptualize, plan, and build digital libraries. In the process of doing that, we will learn about digitization of text and image documents, metadata, and various digital library-related technologies, standards, systems, and software.
