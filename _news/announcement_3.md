@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-03-11 07:23:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Published a paper [An analysis of poet demographic and thematic diversity in a poetry collection for inclusive AI](https://doi.org/10.47989/ir30iConf47263) at The Journal of Academic Librarianship!
