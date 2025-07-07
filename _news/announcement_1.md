@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my PhD journey! :sparkles: :smile:
+Embarked on my PhD journey! :sparkles: :smile:
