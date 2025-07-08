@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Eco-fiction collection
-description: a digital collection of eco-fiction books based on Jim Dwyer (2010)'s book, "Where the Wild Books Are: A Field Guide to Ecofiction".
+title: Eco-fiction Collection
+description: a digital collection of contemporary eco-fiction books based on Jim Dwyer (2010)'s book, <i>Where the Wild Books Are&#58; A Field Guide to Ecofiction</i>.
 img: assets/img/grahame.jpg
 redirect: https://krorange.github.io/ecofiction-gh/
 importance: 3

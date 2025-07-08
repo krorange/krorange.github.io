@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gyuri Kang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 26th August 1996
     - name: Languages
-      value: English, German
+      value: Korean, English, Japanese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MS
+      institution: University at Albany, Albany, New York, US.
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MA
+      institution: University at Albany, Albany, New York, US.
+      year: 2023
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Indiana University Bloomington, Bloomington, Indiana, US
+      year: 2025-now
       description:
         - Description 1.
         - Description 2.
@@ -41,57 +41,48 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Associate Instructor
+      institution: Indiana University Bloomington, Bloomington, Indiana, US
+      year: 2023-2024
       description:
-        - Description 1.
-        - Description 2.
+        - ILS-Z652 Digital Libraries.
+        - ILS-Z511 Database Design.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Graduate Assistant for Digital Scholarship
+      institution: University at Albany, Albany, New York, US.
+      year: 2021-2022
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://krorange.github.io/ecofiction-gh/">Eco-fiction Collection</a>
+      year: 2023-now
+      description: a digital collection of contemporary eco-fiction books based on Jim Dwyer (2010)'s book, Where the Wild Books Are&#58; A Field Guide to Ecofiction.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Doctoral Research Forum 1st place
+        - Luddy AI Fellowship
+    - year: 2022
       items:
-        - Max Planck Medal
+        - University at Albany Libraries Award
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Digital Humanities.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Cultural Analytics.
+        - Computational Literary Studies.
+    - title: Environmental Humanities.
       items:
-        - Description 1.
-        - Description 2.
+        - Ecocriticism.
+        - Posthumanism.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Board games, Hiking, etc.
