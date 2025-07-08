@@ -398,87 +398,12 @@ ninja.data = [{
           section: "News",},{id: "news-published-a-paper-an-analysis-of-poet-demographic-and-thematic-diversity-in-a-poetry-collection-for-inclusive-ai-at-information-research",
           title: 'Published a paper An analysis of poet demographic and thematic diversity in a...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-eco-fiction-collection",
+          title: 'Eco-fiction Collection',
+          description: "a digital collection of contemporary eco-fiction books based on Jim Dwyer (2010)&#39;s book, Where the Wild Books Are&amp;#58; A Field Guide to Ecofiction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%67%79%75%6B%61%6E%67@%69%75.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/gyuri-kang-5025b4259", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=kaydSP4AAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://krorange.github.io/", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
