@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses I&#39;ve taught at IU.",
+          description: "Materials for courses Gyuri has taught at IU.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
