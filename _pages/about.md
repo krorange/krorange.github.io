@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Gyuri Kang is a PhD student in Information Science at Indiana University Bloomington. Her research lies in the digital environmental humanities, where she works at the intersection of humanistic inquiry into environmental issues and digital computing. She uses statistical tools and computational methods to answer humanistic questions about environmental problems of our age by looking at social and cultural relationship with the natural world mediated by texts, media, and history.
+Gyuri Kang is a PhD student in Information Science at Indiana University Bloomington. Her research lies in the digital environmental humanities, where she works at the intersection of humanistic inquiry into environmental issues and digital computing. She uses statistical tools and computational methods to answer humanistic questions about environmental problems by looking at our social and cultural relationships with the natural world mediated by texts, media, and history.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
