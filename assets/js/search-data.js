@@ -389,8 +389,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-embarked-on-my-phd-journey-sparkles-smile",
-          title: 'Embarked on my PhD journey! :sparkles: :smile:',
+    },{id: "news-embarked-on-my-phd-journey-sunglasses-sparkles",
+          title: 'Embarked on my PhD journey! :sunglasses: :sparkles:',
           description: "",
           section: "News",},{id: "news-published-a-paper-technology-education-in-academic-libraries-an-analysis-of-library-workshops-at-the-journal-of-academic-librarianship",
           title: 'Published a paper Technology education in academic libraries: An analysis of library workshops...',
