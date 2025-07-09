@@ -29,7 +29,7 @@ linkedin_username: gyuri-kang-5025b4259 # your LinkedIn user name
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: false # set to true to show the RSS icon
+#rss_icon: true # set to true to show the RSS icon
 scholar_userid: kaydSP4AAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
@@ -45,7 +45,7 @@ scholar_userid: kaydSP4AAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: /assets/img/my-notion-face-portrait.png # can be png, svg, jpg
-  title: My Notion Face
-  url: https://krorange.github.io/
+#custom_social: # can be any name here other than the ones already defined above
+#  logo: /assets/img/my-notion-face-portrait.png # can be png, svg, jpg
+#  title: My Notion Face
+#  url: https://krorange.github.io/
