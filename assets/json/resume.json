@@ -24,12 +24,21 @@
   "work": [
     {
       "name": "Indiana University Bloomington",
-      "position": "Associate Instructor & Research Assistant",
+      "position": "Associate Instructor",
       "url": "https://ils.indiana.edu/index.html",
       "startDate": "2024-01-21",
       "endDate": "Now",
-      "summary": "Teaching at Indiana University Bloomington. While not a professor at Indiana, I associated with the Information Science professors and continued to give lectures on campus.",
+      "summary": "Teaching at Indiana University Bloomington. Working with Information Science professors and teaching graduate-level ILS courses.",
       "highlights": ["Digital Libraries", "Database Design"]
+    },
+    {
+      "name": "Indiana University Bloomington",
+      "position": "Research Assistant",
+      "url": "https://ils.indiana.edu/index.html",
+      "startDate": "2024-01-21",
+      "endDate": "Now",
+      "summary": "Researching at Indiana University Bloomington. Collaborating with Information Science professors and working on research projects.",
+      "highlights": ["Illuminating Use, Misuse, and Abuse of Online Book Reviews", "Analyzing Poet Demographic and Thematic Diversity in American Poetry"]
     }
   ],
   "volunteer": [
@@ -66,13 +75,35 @@
       "endDate": "2022-12-08",
       "score": "10",
       "courses": ["Climate Change Science and Fiction: Realism Across the Divide", "Enlightenment Now: Revisiting English Literary Studies", "Middlemarch and Ulysses"]
+    },
+      {
+      "institution": "Hanyang University",
+      "location": "Ansan, Korea",
+      "url": "https://www.hanyang.ac.kr/web/eng",
+      "area": "English",
+      "studyType": "BA",
+      "startDate": "2015-03-02",
+      "endDate": "2019-02-28",
+      "score": "10",
+      "courses": ["British Society and Literature I", "American Society and Literature", "Introduction to English Linguistics", "British Society through Contemporary Novels", "American Society through Novels", "Readings in British & American Essays"]
+    },
+      {
+      "institution": "University of Oregon",
+      "location": "Eugene, Oregon, US",
+      "url": "https://www.uoregon.edu/",
+      "area": "English",
+      "studyType": "Exchange Student",
+      "startDate": "2017-09-25",
+      "endDate": "2018-06-15",
+      "score": "10",
+      "courses": ["Foundations of the English Major: Theory", "Structure of English Words", "English Novel", "American Novel"]
     }
   ],
   "awards": [
     {
       "title": "2024-2025 Luddy Excellence Award",
       "date": "2025-05-20",
-      "awarder": "Luddy School of Informatics, Computing and Engineering",
+      "awarder": "Luddy School of Informatics, Computing and Engineering, Indiana University Bloomington",
       "url": "https://luddy.indiana.edu/index.html",
       "summary": "Luddy Outstanding Research Award"
     }
@@ -117,10 +148,11 @@
       "keywords": [
         "Python",
         "R",
-        "Markdown",
         "LaTeX",
-        "MySQL",
-        "QGIS"
+        "Markdown",
+        "Gephi",
+        "QGIS",
+        "MySQL"
       ]
     }
   ],
@@ -138,6 +170,11 @@
     {
       "language": "Japanese",
       "fluency": "Intermediate",
+      "icon": ""
+    },
+      {
+      "language": "French",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
@@ -171,7 +208,7 @@
     {
       "name": "Eco-fiction Collection",
       "summary": "A digital collection of contemporary eco-fiction books based on Jim Dwyer (2010)'s book, <i>Where the Wild Books Are: A Field Guide to Ecofiction</i>.",
-      "highlights": ["Eco-fiction", "Digital Libraries"],
+      "highlights": ["Digital Environmental Humanities", "Eco-fiction", "Digital Libraries"],
       "startDate": "2024-12-18",
       "endDate": "2025-05-05",
       "url": "https://krorange.github.io/ecofiction-gh/"
