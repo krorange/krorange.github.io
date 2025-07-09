@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I've taught at IU.
+description: Materials for courses Gyuri has taught at IU.
 nav: true
 nav_order: 6
 ---
