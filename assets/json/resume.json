@@ -35,7 +35,7 @@
       "name": "Indiana University Bloomington",
       "position": "Research Assistant",
       "url": "https://ils.indiana.edu/index.html",
-      "startDate": "2024-01-21",
+      "startDate": "2024-06-01",
       "endDate": "Now",
       "summary": "Researching at Indiana University Bloomington. Collaborating with Information Science professors and working on research projects.",
       "highlights": ["Illuminating Use, Misuse, and Abuse of Online Book Reviews", "Analyzing Poet Demographic and Thematic Diversity in American Poetry"]
@@ -63,7 +63,7 @@
       "startDate": "2020-09-01",
       "endDate": "2022-12-08",
       "score": "10",
-      "courses": ["Text Analysis", "Data Analytics", "Analysis, Visualization, and Prediction in Analytics", "Digital Libraries", "Database Systems and Data Analysis", "Predictive Modeling"]
+      "courses": ["Text Analysis", "Digital Libraries", "Database Systems and Data Analysis", "Data Analytics", "Analysis, Visualization, and Prediction in Analytics", "Predictive Modeling"]
     },
     {
       "institution": "University at Albany, Albany, New York, US",
@@ -159,7 +159,7 @@
   "languages": [
     {
       "language": "Korean",
-      "fluency": "Native speaker",
+      "fluency": "Native",
       "icon": ""
     },
     {
