@@ -54,7 +54,18 @@
       "startDate": "2020-09-01",
       "endDate": "2022-12-08",
       "score": "10",
-      "courses": ["Digital Libraries"]
+      "courses": ["Text Analysis", "Data Analytics", "Analysis, Visualization, and Prediction in Analytics", "Digital Libraries", "Database Systems and Data Analysis", "Predictive Modeling"]
+    },
+    {
+      "institution": "University at Albany, Albany, New York, US",
+      "location": "Albany, New York, US",
+      "url": "https://www.albany.edu/",
+      "area": "English",
+      "studyType": "MA",
+      "startDate": "2020-09-01",
+      "endDate": "2022-12-08",
+      "score": "10",
+      "courses": ["Climate Change Science and Fiction: Realism Across the Divide", "Enlightenment Now: Revisiting English Literary Studies", "Middlemarch and Ulysses"]
     }
   ],
   "awards": [
