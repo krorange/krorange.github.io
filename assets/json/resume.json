@@ -29,19 +29,19 @@
       "startDate": "2024-01-21",
       "endDate": "Now",
       "summary": "Teaching at Indiana University Bloomington. While not a professor at Princeton, I associated with the Information Science professors and continued to give lectures on campus.",
-      "highlights": ["Digital Libraries"]
+      "highlights": ["Digital Libraries", "Database Design"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "The Journal of Academic Librarianship",
+      "location": "N/A",
+      "position": "Journal Reviewer",
+      "url": "https://www.sciencedirect.com/journal/the-journal-of-academic-librarianship",
+      "startDate": "2023-11-23",
+      "endDate": "Now",
+      "summary": "A reviewer for <i>The Journal of Academic Librarianship</i>.",
+      "highlights": []
     }
   ],
   "education": [
