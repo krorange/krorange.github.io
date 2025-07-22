@@ -392,7 +392,7 @@ ninja.data = [{
     },{id: "news-embarked-on-my-phd-journey-sunglasses-sparkles",
           title: 'Embarked on my PhD journey! :sunglasses: :sparkles:',
           description: "",
-          section: "News",},{id: "news-published-a-paper-technology-education-in-academic-libraries-an-analysis-of-library-workshops-at-the-journal-of-academic-librarianship",
+          section: "News",},{id: "news-published-a-paper-technology-education-in-academic-libraries-an-analysis-of-library-workshops-in-the-journal-of-academic-librarianship",
           title: 'Published a paper Technology education in academic libraries: An analysis of library workshops...',
           description: "",
           section: "News",},{id: "news-presented-a-paper-the-effect-of-a-thing-nature-and-the-environment-in-percy-bysshe-shelley-and-algernon-charles-swinburne-at-the-digital-humanities-congress-2024",
