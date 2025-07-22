@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper [An analysis of poet demographic and thematic diversity in a poetry collection for inclusive AI](https://doi.org/10.47989/ir30iConf47263) was published in Information Research!
+My paper [An analysis of poet demographic and thematic diversity in a poetry collection for inclusive AI](https://doi.org/10.47989/ir30iConf47263) was published in _Information Research_!
