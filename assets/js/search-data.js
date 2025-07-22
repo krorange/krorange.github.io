@@ -398,7 +398,7 @@ ninja.data = [{
           section: "News",},{id: "news-presented-a-paper-the-effect-of-a-thing-nature-and-the-environment-in-percy-bysshe-shelley-and-algernon-charles-swinburne-at-the-digital-humanities-congress-2024",
           title: 'Presented a paper “The effect of a thing”: Nature and the Environment in...',
           description: "",
-          section: "News",},{id: "news-published-a-paper-an-analysis-of-poet-demographic-and-thematic-diversity-in-a-poetry-collection-for-inclusive-ai-at-information-research",
+          section: "News",},{id: "news-published-a-paper-an-analysis-of-poet-demographic-and-thematic-diversity-in-a-poetry-collection-for-inclusive-ai-in-information-research",
           title: 'Published a paper An analysis of poet demographic and thematic diversity in a...',
           description: "",
           section: "News",},{id: "projects-eco-fiction-collection",
