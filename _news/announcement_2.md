@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper [Technology education in academic libraries: An analysis of library workshops](https://doi.org/10.1016/j.acalib.2024.102856) was published in The Journal of Academic Librarianship!
+My paper [Technology education in academic libraries: An analysis of library workshops](https://doi.org/10.1016/j.acalib.2024.102856) was published in _The Journal of Academic Librarianship_!
