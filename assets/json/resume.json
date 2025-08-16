@@ -38,7 +38,10 @@
       "startDate": "2024-06-01",
       "endDate": "Now",
       "summary": "Researching at Indiana University Bloomington. Collaborating with Information Science professors and working on research projects.",
-      "highlights": ["Illuminating Use, Misuse, and Abuse of Online Book Reviews", "Analyzing Poet Demographic and Thematic Diversity in American Poetry"]
+      "highlights": [
+        "Illuminating Use, Misuse, and Abuse of Online Book Reviews",
+        "Analyzing Poet Demographic and Thematic Diversity in American Poetry"
+      ]
     }
   ],
   "volunteer": [
@@ -63,7 +66,14 @@
       "startDate": "2020-09-01",
       "endDate": "2022-12-08",
       "score": "10",
-      "courses": ["Text Analysis", "Digital Libraries", "Database Systems and Data Analysis", "Data Analytics", "Analysis, Visualization, and Prediction in Analytics", "Predictive Modeling"]
+      "courses": [
+        "Text Analysis",
+        "Digital Libraries",
+        "Database Systems and Data Analysis",
+        "Data Analytics",
+        "Analysis, Visualization, and Prediction in Analytics",
+        "Predictive Modeling"
+      ]
     },
     {
       "institution": "University at Albany, Albany, New York, US",
@@ -74,9 +84,13 @@
       "startDate": "2020-09-01",
       "endDate": "2022-12-08",
       "score": "10",
-      "courses": ["Climate Change Science and Fiction: Realism Across the Divide", "Enlightenment Now: Revisiting English Literary Studies", "Middlemarch and Ulysses"]
+      "courses": [
+        "Climate Change Science and Fiction: Realism Across the Divide",
+        "Enlightenment Now: Revisiting English Literary Studies",
+        "Middlemarch and Ulysses"
+      ]
     },
-      {
+    {
       "institution": "Hanyang University",
       "location": "Ansan, Korea",
       "url": "https://www.hanyang.ac.kr/web/eng",
@@ -85,9 +99,16 @@
       "startDate": "2015-03-02",
       "endDate": "2019-02-28",
       "score": "10",
-      "courses": ["British Society and Literature I", "American Society and Literature", "Introduction to English Linguistics", "British Society through Contemporary Novels", "American Society through Novels", "Readings in British & American Essays"]
+      "courses": [
+        "British Society and Literature I",
+        "American Society and Literature",
+        "Introduction to English Linguistics",
+        "British Society through Contemporary Novels",
+        "American Society through Novels",
+        "Readings in British & American Essays"
+      ]
     },
-      {
+    {
       "institution": "University of Oregon",
       "location": "Eugene, Oregon, US",
       "url": "https://www.uoregon.edu/",
@@ -145,15 +166,7 @@
       "name": "Information Science",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "R",
-        "LaTeX",
-        "Markdown",
-        "Gephi",
-        "QGIS",
-        "MySQL"
-      ]
+      "keywords": ["Python", "R", "LaTeX", "Markdown", "Gephi", "QGIS", "MySQL"]
     }
   ],
   "languages": [
@@ -172,7 +185,7 @@
       "fluency": "Intermediate",
       "icon": ""
     },
-      {
+    {
       "language": "French",
       "fluency": "Basic",
       "icon": ""

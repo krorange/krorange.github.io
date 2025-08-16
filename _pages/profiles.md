@@ -17,6 +17,7 @@ profiles:
       <p>2115B</p>
       <p>700 N Woodlawn Ave</p>
       <p>Bloomington, IN 47408</p>
+
 #  - align: left
 #    image: my-notion-face-portrait.jpg
 #    content: about_einstein.md
